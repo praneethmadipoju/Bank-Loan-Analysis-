@@ -1,1 +1,25 @@
-KPI's: It includes :Advance Excel, SQL, Tableau, Power BI (Dashboards present) Year wise loan amount, Stats Grade and sub grade wise revol_bal, Total Payment for Verified Status Vs Total Payment for Non Verified Status, State wise and last_credit_pull_d wise loan status, Home ownership Vs last payment date stats
+Bank-Analytics-Project
+
+Project Overview
+
+Created an interactive Power BI dashboard that is divided into three main sections: Home, Loan Overview, and Loan Segmentation.
+Utilized SQL for efficient data extraction and querying, which allowed us to handle large volumes of banking data.
+Employed Excel for initial data cleaning and preparation, ensuring smooth integration with Power BI for advanced visualization.
+
+Data Source
+
+Bank Data: The primary dataset used for this analysis is the "Finance_1.xlsx" and "Finance_2.xlsx" files, containing detailed information about members of the bank and their status.
+
+Tools
+
+Excel: Data Cleaning
+SQL: Data Analysis
+PowerBI: Creating Reports
+
+Data Cleaning/Preparation
+
+In the initial data preparation phase, we performed the following tasks:
+
+Data loading and inspection.
+Handling missing values.
+Data cleaning and formatting.
